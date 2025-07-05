@@ -1,7 +1,0 @@
-__pycache__
-.git
-.idea
-.venv
-pyproject.toml
-.python-version
-uv.lock
